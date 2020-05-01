@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "litematicalib.net", "litematicalib.net.csproj", "{5F40529E-82A0-486D-B29A-195BE04A35A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F40529E-82A0-486D-B29A-195BE04A35A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F40529E-82A0-486D-B29A-195BE04A35A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F40529E-82A0-486D-B29A-195BE04A35A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F40529E-82A0-486D-B29A-195BE04A35A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E20C7CD-B262-42B1-807F-0D7CB3D65E0F}
+	EndGlobalSection
+EndGlobal
